@@ -90,15 +90,6 @@ Excel Report Generation
       ↓
 SMTP-Based Automated Distribution
 ```
-
----
-
-## Architecture Diagram
-
-(Add architecture diagram in /diagrams folder)
-
----
-
 ## Key Features
 
 - ERPNext REST API integration
